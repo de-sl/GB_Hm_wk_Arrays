@@ -1,0 +1,15 @@
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/bin/Debug/net7.0/q36
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/bin/Debug/net7.0/q36.deps.json
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/bin/Debug/net7.0/q36.runtimeconfig.json
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/bin/Debug/net7.0/q36.dll
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/bin/Debug/net7.0/q36.pdb
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.csproj.AssemblyReference.cache
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.GeneratedMSBuildEditorConfig.editorconfig
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.AssemblyInfoInputs.cache
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.AssemblyInfo.cs
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.csproj.CoreCompileInputs.cache
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.dll
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/refint/q36.dll
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.pdb
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/q36.genruntimeconfig.cache
+/home/de-sl/GB/C#/Hm_wk_arrays/q36/obj/Debug/net7.0/ref/q36.dll
