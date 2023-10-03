@@ -3,11 +3,11 @@
 // [3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
 
 
-Console.WriteLine("Введите количество элементов массива:  ");
+Console.WriteLine("Enter the number of array elementsива:  ");
 int size = Convert.ToInt32(Console.ReadLine());
 double[] numbers = new double[size];
 FillArrayRandomNumbers(numbers);
-Console.WriteLine("массив: ");
+Console.WriteLine("array: ");
 PrintArray(numbers);
 double min = Int32.MaxValue;
 double max = Int32.MinValue;
@@ -24,8 +24,8 @@ for (int z = 0; z < numbers.Length; z++)
         }
 }
 
-Console.WriteLine($"всего {numbers.Length} чисел. Максимальное значение = {max}, минимальное значение = {min}");
-Console.WriteLine($"Разница между максимальным и минимальным значением {max} - {min} = {max - min}");
+Console.WriteLine($"total {numbers.Length} numbers. Maximum value = {max}, minimum value = {min}");
+Console.WriteLine($"The difference between the maximum and minimum value {max} - {min} = {max - min}");
 
 void FillArrayRandomNumbers(double[] numbers)
 {
