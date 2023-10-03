@@ -4,7 +4,7 @@
 
 
 
-Console.Write("Введите количество элементов массива: ");
+Console.Write("Enter the number of array elements: ");
 int a = Convert.ToInt32(Console.ReadLine());
 int[] randomArray = new int[a];
 
@@ -30,4 +30,4 @@ void mas(int a)
 }
 
 mas(a);
-Console.WriteLine($"\nКоличество чётных чисел в массиве: {kol(randomArray)}");
+Console.WriteLine($"\nThe number of even numbers in the array: {kol(randomArray)}");
