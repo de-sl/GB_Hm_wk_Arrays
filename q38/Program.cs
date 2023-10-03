@@ -3,7 +3,7 @@
 // [3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
 
 
-Console.WriteLine("Введите размер массива  ");
+Console.WriteLine("Введите количество элементов массива:  ");
 int size = Convert.ToInt32(Console.ReadLine());
 double[] numbers = new double[size];
 FillArrayRandomNumbers(numbers);
