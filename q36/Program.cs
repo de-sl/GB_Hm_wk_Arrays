@@ -2,7 +2,7 @@
 // Найдите сумму элементов, стоящих на нечётных позициях.
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
-Console.WriteLine($"Введи длину массива: ");
+Console.WriteLine($"Введите количество элементов массива: ");
 int ElementNumbers = Convert.ToInt32(Console.ReadLine()); 
 int randomNumber =  RandomNumbers(ElementNumbers, 1, 10);
 Console.WriteLine($"\nСумма элементов, стоящих на нечётных позициях: {randomNumber}");
