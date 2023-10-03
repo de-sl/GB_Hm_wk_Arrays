@@ -2,10 +2,10 @@
 // Найдите сумму элементов, стоящих на нечётных позициях.
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
-Console.WriteLine($"Введите количество элементов массива: ");
+Console.WriteLine($"Enter the number of array elements: ");
 int ElementNumbers = Convert.ToInt32(Console.ReadLine()); 
 int randomNumber =  RandomNumbers(ElementNumbers, 1, 10);
-Console.WriteLine($"\nСумма элементов, стоящих на нечётных позициях: {randomNumber}");
+Console.WriteLine($"\nThe sum of the elements standing in odd positions: {randomNumber}");
 
 
 
@@ -13,7 +13,7 @@ int RandomNumbers(int ElementNumbers, int min, int max)
   {
   int[] randomNumber = new int[ElementNumbers];
   int sumElements = 0;
-  Console.WriteLine("Получившийся массив: ");
+  Console.WriteLine("The resulting array: ");
 
     for (int i = 0; i <randomNumber.Length; i++ ){
       randomNumber[i] = new Random().Next(min, max);
